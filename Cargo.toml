@@ -7,6 +7,7 @@ repository = "https://github.com/ImTheSquid/subsync"
 homepage = "https://github.com/ImTheSquid/subsync"
 readme = "README.md"
 authors = ["Jack Hogan <jackhogan11@gmail.com>"]
+description = "A simple tool to synchronize subtitle files to their respective media files"
 
 [dependencies]
 clap = { version = "4.5.4", features = ["derive"] }
